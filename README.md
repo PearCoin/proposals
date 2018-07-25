@@ -1,2 +1,2 @@
 # proposals
-proposals PRCToken Enhancement Proposals
+proposals PearCoin Enhancement Proposals
